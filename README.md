@@ -3,4 +3,4 @@
 (Μόνο για τα Κέντρα Κοινότητας)
 
 Use this plugin for Chrome
-https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija/related
+https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk/related?hl=en
